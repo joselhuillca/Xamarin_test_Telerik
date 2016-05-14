@@ -1,0 +1,11 @@
+/Users/mac/Projects/test/test/obj/Debug/assemblies/test.dll
+/Users/mac/Projects/test/test/obj/Debug/assemblies/System.dll
+/Users/mac/Projects/test/test/obj/Debug/assemblies/System.Xml.dll
+/Users/mac/Projects/test/test/obj/Debug/assemblies/Mono.Android.dll
+/Users/mac/Projects/test/test/obj/Debug/assemblies/Telerik.Xamarin.Android.Common.dll
+/Users/mac/Projects/test/test/obj/Debug/assemblies/Telerik.Xamarin.Android.List.dll
+/Users/mac/Projects/test/test/obj/Debug/assemblies/Telerik.Xamarin.Android.Data.dll
+/Users/mac/Projects/test/test/obj/Debug/assemblies/Xamarin.Android.Support.v4.dll
+/Users/mac/Projects/test/test/obj/Debug/assemblies/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/mac/Projects/test/test/obj/Debug/assemblies/System.Core.dll
+/Users/mac/Projects/test/test/obj/Debug/assemblies/mscorlib.dll

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{0C98B2DA-6D62-450A-989F-765C63222271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test.UITests", "test.UITests\test.UITests.csproj", "{50CB9804-B637-42CD-B555-45E96D812319}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C98B2DA-6D62-450A-989F-765C63222271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C98B2DA-6D62-450A-989F-765C63222271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C98B2DA-6D62-450A-989F-765C63222271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C98B2DA-6D62-450A-989F-765C63222271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50CB9804-B637-42CD-B555-45E96D812319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50CB9804-B637-42CD-B555-45E96D812319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50CB9804-B637-42CD-B555-45E96D812319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50CB9804-B637-42CD-B555-45E96D812319}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="test/test.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.3004d5aa35e32200" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="test/MainActivity.cs" Line="22" Column="25" />
+      <File FileName="test/City.cs" Line="9" Column="16" />
+      <File FileName="test/CityAdapter.cs" Line="79" Column="33" />
+      <File FileName="test/ExampleSourceModel.cs" Line="40" Column="3" />
+      <File FileName="test/ExampleFragmentBase.cs" Line="31" Column="117" />
+      <File FileName="test/obj/Debug/resourcecache/A59DC1264A63DE5519496C20D45203BD/res/layout/abc_screen_toolbar.xml" Line="32" Column="41" />
+      <File FileName="test/Test_telerik.cs" Line="59" Column="34" />
+      <File FileName="test/LRUCache.cs" Line="18" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.test AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

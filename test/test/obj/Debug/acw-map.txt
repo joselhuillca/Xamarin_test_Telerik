@@ -1,0 +1,148 @@
+test.MainActivity, test;md56996cb2aea8f756b255ad7a6f28adcb8.MainActivity
+test.MainActivity, test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56996cb2aea8f756b255ad7a6f28adcb8.MainActivity
+test.MainActivity;md56996cb2aea8f756b255ad7a6f28adcb8.MainActivity
+test.MainActivity;md56996cb2aea8f756b255ad7a6f28adcb8.MainActivity
+test.City, test;md56996cb2aea8f756b255ad7a6f28adcb8.City
+test.City, test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56996cb2aea8f756b255ad7a6f28adcb8.City
+test.City;md56996cb2aea8f756b255ad7a6f28adcb8.City
+test.City;md56996cb2aea8f756b255ad7a6f28adcb8.City
+test.CityAdapter, test;md56996cb2aea8f756b255ad7a6f28adcb8.CityAdapter
+test.CityAdapter, test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56996cb2aea8f756b255ad7a6f28adcb8.CityAdapter
+test.CityAdapter;md56996cb2aea8f756b255ad7a6f28adcb8.CityAdapter
+test.CityAdapter;md56996cb2aea8f756b255ad7a6f28adcb8.CityAdapter
+test.CityAdapter/DestinationViewHolder, test;md56996cb2aea8f756b255ad7a6f28adcb8.CityAdapter_DestinationViewHolder
+test.CityAdapter/DestinationViewHolder, test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56996cb2aea8f756b255ad7a6f28adcb8.CityAdapter_DestinationViewHolder
+test.CityAdapter.DestinationViewHolder;md56996cb2aea8f756b255ad7a6f28adcb8.CityAdapter_DestinationViewHolder
+test.CityAdapter_DestinationViewHolder;md56996cb2aea8f756b255ad7a6f28adcb8.CityAdapter_DestinationViewHolder
+test.ExampleFragmentBase, test;md56996cb2aea8f756b255ad7a6f28adcb8.ExampleFragmentBase
+test.ExampleFragmentBase, test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56996cb2aea8f756b255ad7a6f28adcb8.ExampleFragmentBase
+test.ExampleFragmentBase;md56996cb2aea8f756b255ad7a6f28adcb8.ExampleFragmentBase
+test.ExampleFragmentBase;md56996cb2aea8f756b255ad7a6f28adcb8.ExampleFragmentBase
+test.Test_telerik, test;md56996cb2aea8f756b255ad7a6f28adcb8.Test_telerik
+test.Test_telerik, test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56996cb2aea8f756b255ad7a6f28adcb8.Test_telerik
+test.Test_telerik;md56996cb2aea8f756b255ad7a6f28adcb8.Test_telerik
+test.Test_telerik;md56996cb2aea8f756b255ad7a6f28adcb8.Test_telerik
+test.Test_telerik/RetainFragment, test;md56996cb2aea8f756b255ad7a6f28adcb8.Test_telerik_RetainFragment
+test.Test_telerik/RetainFragment, test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56996cb2aea8f756b255ad7a6f28adcb8.Test_telerik_RetainFragment
+test.Test_telerik.RetainFragment;md56996cb2aea8f756b255ad7a6f28adcb8.Test_telerik_RetainFragment
+test.Test_telerik_RetainFragment;md56996cb2aea8f756b255ad7a6f28adcb8.Test_telerik_RetainFragment
+Com.Telerik.Android.Common.ICollectionChangeListenerImplementor, Telerik.Xamarin.Android.Common;mono.com.telerik.android.common.CollectionChangeListenerImplementor
+Com.Telerik.Android.Common.ICollectionChangeListenerImplementor, Telerik.Xamarin.Android.Common, Version=2016.1.324.0, Culture=neutral, PublicKeyToken=null;mono.com.telerik.android.common.CollectionChangeListenerImplementor
+Com.Telerik.Android.Common.ICollectionChangeListenerImplementor;mono.com.telerik.android.common.CollectionChangeListenerImplementor
+com.telerik.android.common.ICollectionChangeListenerImplementor;mono.com.telerik.android.common.CollectionChangeListenerImplementor
+Com.Telerik.Widget.List.CollapsibleGroupsBehavior/ICollapseGroupListenerImplementor, Telerik.Xamarin.Android.List;mono.com.telerik.widget.list.CollapsibleGroupsBehavior_CollapseGroupListenerImplementor
+Com.Telerik.Widget.List.CollapsibleGroupsBehavior/ICollapseGroupListenerImplementor, Telerik.Xamarin.Android.List, Version=2016.1.324.0, Culture=neutral, PublicKeyToken=null;mono.com.telerik.widget.list.CollapsibleGroupsBehavior_CollapseGroupListenerImplementor
+Com.Telerik.Widget.List.CollapsibleGroupsBehavior.ICollapseGroupListenerImplementor;mono.com.telerik.widget.list.CollapsibleGroupsBehavior_CollapseGroupListenerImplementor
+com.telerik.widget.list.CollapsibleGroupsBehavior_ICollapseGroupListenerImplementor;mono.com.telerik.widget.list.CollapsibleGroupsBehavior_CollapseGroupListenerImplementor
+Com.Telerik.Widget.List.ICurrentPositionChangeListenerImplementor, Telerik.Xamarin.Android.List;mono.com.telerik.widget.list.CurrentPositionChangeListenerImplementor
+Com.Telerik.Widget.List.ICurrentPositionChangeListenerImplementor, Telerik.Xamarin.Android.List, Version=2016.1.324.0, Culture=neutral, PublicKeyToken=null;mono.com.telerik.widget.list.CurrentPositionChangeListenerImplementor
+Com.Telerik.Widget.List.ICurrentPositionChangeListenerImplementor;mono.com.telerik.widget.list.CurrentPositionChangeListenerImplementor
+com.telerik.widget.list.ICurrentPositionChangeListenerImplementor;mono.com.telerik.widget.list.CurrentPositionChangeListenerImplementor
+Com.Telerik.Widget.List.ItemReorderBehavior/IItemReorderListenerImplementor, Telerik.Xamarin.Android.List;mono.com.telerik.widget.list.ItemReorderBehavior_ItemReorderListenerImplementor
+Com.Telerik.Widget.List.ItemReorderBehavior/IItemReorderListenerImplementor, Telerik.Xamarin.Android.List, Version=2016.1.324.0, Culture=neutral, PublicKeyToken=null;mono.com.telerik.widget.list.ItemReorderBehavior_ItemReorderListenerImplementor
+Com.Telerik.Widget.List.ItemReorderBehavior.IItemReorderListenerImplementor;mono.com.telerik.widget.list.ItemReorderBehavior_ItemReorderListenerImplementor
+com.telerik.widget.list.ItemReorderBehavior_IItemReorderListenerImplementor;mono.com.telerik.widget.list.ItemReorderBehavior_ItemReorderListenerImplementor
+Com.Telerik.Widget.List.LoadOnDemandBehavior/ILoadOnDemandListenerImplementor, Telerik.Xamarin.Android.List;mono.com.telerik.widget.list.LoadOnDemandBehavior_LoadOnDemandListenerImplementor
+Com.Telerik.Widget.List.LoadOnDemandBehavior/ILoadOnDemandListenerImplementor, Telerik.Xamarin.Android.List, Version=2016.1.324.0, Culture=neutral, PublicKeyToken=null;mono.com.telerik.widget.list.LoadOnDemandBehavior_LoadOnDemandListenerImplementor
+Com.Telerik.Widget.List.LoadOnDemandBehavior.ILoadOnDemandListenerImplementor;mono.com.telerik.widget.list.LoadOnDemandBehavior_LoadOnDemandListenerImplementor
+com.telerik.widget.list.LoadOnDemandBehavior_ILoadOnDemandListenerImplementor;mono.com.telerik.widget.list.LoadOnDemandBehavior_LoadOnDemandListenerImplementor
+Com.Telerik.Widget.List.RadListView/IIsEmptyChangedListenerImplementor, Telerik.Xamarin.Android.List;mono.com.telerik.widget.list.RadListView_IsEmptyChangedListenerImplementor
+Com.Telerik.Widget.List.RadListView/IIsEmptyChangedListenerImplementor, Telerik.Xamarin.Android.List, Version=2016.1.324.0, Culture=neutral, PublicKeyToken=null;mono.com.telerik.widget.list.RadListView_IsEmptyChangedListenerImplementor
+Com.Telerik.Widget.List.RadListView.IIsEmptyChangedListenerImplementor;mono.com.telerik.widget.list.RadListView_IsEmptyChangedListenerImplementor
+com.telerik.widget.list.RadListView_IIsEmptyChangedListenerImplementor;mono.com.telerik.widget.list.RadListView_IsEmptyChangedListenerImplementor
+Com.Telerik.Widget.List.RadListView/IItemClickListenerImplementor, Telerik.Xamarin.Android.List;mono.com.telerik.widget.list.RadListView_ItemClickListenerImplementor
+Com.Telerik.Widget.List.RadListView/IItemClickListenerImplementor, Telerik.Xamarin.Android.List, Version=2016.1.324.0, Culture=neutral, PublicKeyToken=null;mono.com.telerik.widget.list.RadListView_ItemClickListenerImplementor
+Com.Telerik.Widget.List.RadListView.IItemClickListenerImplementor;mono.com.telerik.widget.list.RadListView_ItemClickListenerImplementor
+com.telerik.widget.list.RadListView_IItemClickListenerImplementor;mono.com.telerik.widget.list.RadListView_ItemClickListenerImplementor
+Com.Telerik.Widget.List.SwipeExecuteBehavior/ISwipeExecuteListenerImplementor, Telerik.Xamarin.Android.List;mono.com.telerik.widget.list.SwipeExecuteBehavior_SwipeExecuteListenerImplementor
+Com.Telerik.Widget.List.SwipeExecuteBehavior/ISwipeExecuteListenerImplementor, Telerik.Xamarin.Android.List, Version=2016.1.324.0, Culture=neutral, PublicKeyToken=null;mono.com.telerik.widget.list.SwipeExecuteBehavior_SwipeExecuteListenerImplementor
+Com.Telerik.Widget.List.SwipeExecuteBehavior.ISwipeExecuteListenerImplementor;mono.com.telerik.widget.list.SwipeExecuteBehavior_SwipeExecuteListenerImplementor
+com.telerik.widget.list.SwipeExecuteBehavior_ISwipeExecuteListenerImplementor;mono.com.telerik.widget.list.SwipeExecuteBehavior_SwipeExecuteListenerImplementor
+Com.Telerik.Widget.List.SelectionBehavior/ISelectionChangedListenerImplementor, Telerik.Xamarin.Android.List;mono.com.telerik.widget.list.SelectionBehavior_SelectionChangedListenerImplementor
+Com.Telerik.Widget.List.SelectionBehavior/ISelectionChangedListenerImplementor, Telerik.Xamarin.Android.List, Version=2016.1.324.0, Culture=neutral, PublicKeyToken=null;mono.com.telerik.widget.list.SelectionBehavior_SelectionChangedListenerImplementor
+Com.Telerik.Widget.List.SelectionBehavior.ISelectionChangedListenerImplementor;mono.com.telerik.widget.list.SelectionBehavior_SelectionChangedListenerImplementor
+com.telerik.widget.list.SelectionBehavior_ISelectionChangedListenerImplementor;mono.com.telerik.widget.list.SelectionBehavior_SelectionChangedListenerImplementor
+Com.Telerik.Widget.List.SwipeRefreshBehavior/ISwipeRefreshListenerImplementor, Telerik.Xamarin.Android.List;mono.com.telerik.widget.list.SwipeRefreshBehavior_SwipeRefreshListenerImplementor
+Com.Telerik.Widget.List.SwipeRefreshBehavior/ISwipeRefreshListenerImplementor, Telerik.Xamarin.Android.List, Version=2016.1.324.0, Culture=neutral, PublicKeyToken=null;mono.com.telerik.widget.list.SwipeRefreshBehavior_SwipeRefreshListenerImplementor
+Com.Telerik.Widget.List.SwipeRefreshBehavior.ISwipeRefreshListenerImplementor;mono.com.telerik.widget.list.SwipeRefreshBehavior_SwipeRefreshListenerImplementor
+com.telerik.widget.list.SwipeRefreshBehavior_ISwipeRefreshListenerImplementor;mono.com.telerik.widget.list.SwipeRefreshBehavior_SwipeRefreshListenerImplementor
+Com.Telerik.Android.Data.ICurrentItemChangedListenerImplementor, Telerik.Xamarin.Android.Data;mono.com.telerik.android.data.CurrentItemChangedListenerImplementor
+Com.Telerik.Android.Data.ICurrentItemChangedListenerImplementor, Telerik.Xamarin.Android.Data, Version=2016.1.324.0, Culture=neutral, PublicKeyToken=null;mono.com.telerik.android.data.CurrentItemChangedListenerImplementor
+Com.Telerik.Android.Data.ICurrentItemChangedListenerImplementor;mono.com.telerik.android.data.CurrentItemChangedListenerImplementor
+com.telerik.android.data.ICurrentItemChangedListenerImplementor;mono.com.telerik.android.data.CurrentItemChangedListenerImplementor
+Com.Telerik.Android.Data.IDataChangedListenerImplementor, Telerik.Xamarin.Android.Data;mono.com.telerik.android.data.DataChangedListenerImplementor
+Com.Telerik.Android.Data.IDataChangedListenerImplementor, Telerik.Xamarin.Android.Data, Version=2016.1.324.0, Culture=neutral, PublicKeyToken=null;mono.com.telerik.android.data.DataChangedListenerImplementor
+Com.Telerik.Android.Data.IDataChangedListenerImplementor;mono.com.telerik.android.data.DataChangedListenerImplementor
+com.telerik.android.data.IDataChangedListenerImplementor;mono.com.telerik.android.data.DataChangedListenerImplementor
+Com.Telerik.Android.Data.ISelectionChangeListenerImplementor, Telerik.Xamarin.Android.Data;mono.com.telerik.android.data.SelectionChangeListenerImplementor
+Com.Telerik.Android.Data.ISelectionChangeListenerImplementor, Telerik.Xamarin.Android.Data, Version=2016.1.324.0, Culture=neutral, PublicKeyToken=null;mono.com.telerik.android.data.SelectionChangeListenerImplementor
+Com.Telerik.Android.Data.ISelectionChangeListenerImplementor;mono.com.telerik.android.data.SelectionChangeListenerImplementor
+com.telerik.android.data.ISelectionChangeListenerImplementor;mono.com.telerik.android.data.SelectionChangeListenerImplementor
+Android.Support.V4.View.ViewPager/IOnPageChangeListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+Android.Support.V4.View.ViewPager/IOnPageChangeListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+Android.Support.V4.View.ViewPager.IOnPageChangeListenerImplementor;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+android.support.v4.view.ViewPager_IOnPageChangeListenerImplementor;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+Android.Support.V4.App.FragmentManager/IOnBackStackChangedListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+Android.Support.V4.App.FragmentManager/IOnBackStackChangedListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+Android.Support.V4.App.FragmentManager.IOnBackStackChangedListenerImplementor;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+android.support.v4.app.FragmentManager_IOnBackStackChangedListenerImplementor;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+Android.Support.V4.Content.Loader/IOnLoadCompleteListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+Android.Support.V4.Content.Loader/IOnLoadCompleteListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+Android.Support.V4.Content.Loader.IOnLoadCompleteListenerImplementor;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+android.support.v4.content.Loader_IOnLoadCompleteListenerImplementor;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+Android.Support.V4.Media.Session.MediaSessionCompat/IOnActiveChangeListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor
+Android.Support.V4.Media.Session.MediaSessionCompat/IOnActiveChangeListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor
+Android.Support.V4.Media.Session.MediaSessionCompat.IOnActiveChangeListenerImplementor;mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor
+android.support.v4.media.session.MediaSessionCompat_IOnActiveChangeListenerImplementor;mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor
+Android.Support.V4.View.ActionProvider/ISubUiVisibilityListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider/ISubUiVisibilityListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider.ISubUiVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+android.support.v4.view.ActionProvider_ISubUiVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider/IVisibilityListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider/IVisibilityListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider.IVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+android.support.v4.view.ActionProvider_IVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+Android.Support.V4.View.IOnApplyWindowInsetsListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.OnApplyWindowInsetsListenerImplementor
+Android.Support.V4.View.IOnApplyWindowInsetsListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.OnApplyWindowInsetsListenerImplementor
+Android.Support.V4.View.IOnApplyWindowInsetsListenerImplementor;mono.android.support.v4.view.OnApplyWindowInsetsListenerImplementor
+android.support.v4.view.IOnApplyWindowInsetsListenerImplementor;mono.android.support.v4.view.OnApplyWindowInsetsListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
+android.support.v4.view.IViewPropertyAnimatorListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorUpdateListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ViewPropertyAnimatorUpdateListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorUpdateListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPropertyAnimatorUpdateListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorUpdateListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorUpdateListenerImplementor
+android.support.v4.view.IViewPropertyAnimatorUpdateListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorUpdateListenerImplementor
+Android.Support.V4.View.MenuItemCompat/IOnActionExpandListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+Android.Support.V4.View.MenuItemCompat/IOnActionExpandListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+Android.Support.V4.View.MenuItemCompat.IOnActionExpandListenerImplementor;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+android.support.v4.view.MenuItemCompat_IOnActionExpandListenerImplementor;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+Android.Support.V4.Widget.DrawerLayout/IDrawerListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+Android.Support.V4.Widget.DrawerLayout/IDrawerListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+Android.Support.V4.Widget.DrawerLayout.IDrawerListenerImplementor;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+android.support.v4.widget.DrawerLayout_IDrawerListenerImplementor;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+Android.Support.V4.Widget.SlidingPaneLayout/IPanelSlideListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+Android.Support.V4.Widget.SlidingPaneLayout/IPanelSlideListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+Android.Support.V4.Widget.SlidingPaneLayout.IPanelSlideListenerImplementor;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+android.support.v4.widget.SlidingPaneLayout_IPanelSlideListenerImplementor;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+Android.Support.V4.Widget.SwipeRefreshLayout/IOnRefreshListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+Android.Support.V4.Widget.SwipeRefreshLayout/IOnRefreshListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+Android.Support.V4.Widget.SwipeRefreshLayout.IOnRefreshListenerImplementor;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+android.support.v4.widget.SwipeRefreshLayout_IOnRefreshListenerImplementor;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+Android.Support.V7.Widget.RecyclerView/ItemAnimator/IItemAnimatorFinishedListenerImplementor, Xamarin.Android.Support.v7.RecyclerView;mono.android.support.v7.widget.RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor
+Android.Support.V7.Widget.RecyclerView/ItemAnimator/IItemAnimatorFinishedListenerImplementor, Xamarin.Android.Support.v7.RecyclerView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor
+Android.Support.V7.Widget.RecyclerView.ItemAnimator.IItemAnimatorFinishedListenerImplementor;mono.android.support.v7.widget.RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor
+android.support.v7.widget.RecyclerView_ItemAnimator_IItemAnimatorFinishedListenerImplementor;mono.android.support.v7.widget.RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor
+Android.Support.V7.Widget.RecyclerView/IOnChildAttachStateChangeListenerImplementor, Xamarin.Android.Support.v7.RecyclerView;mono.android.support.v7.widget.RecyclerView_OnChildAttachStateChangeListenerImplementor
+Android.Support.V7.Widget.RecyclerView/IOnChildAttachStateChangeListenerImplementor, Xamarin.Android.Support.v7.RecyclerView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.RecyclerView_OnChildAttachStateChangeListenerImplementor
+Android.Support.V7.Widget.RecyclerView.IOnChildAttachStateChangeListenerImplementor;mono.android.support.v7.widget.RecyclerView_OnChildAttachStateChangeListenerImplementor
+android.support.v7.widget.RecyclerView_IOnChildAttachStateChangeListenerImplementor;mono.android.support.v7.widget.RecyclerView_OnChildAttachStateChangeListenerImplementor
+Android.Support.V7.Widget.RecyclerView/IOnItemTouchListenerImplementor, Xamarin.Android.Support.v7.RecyclerView;mono.android.support.v7.widget.RecyclerView_OnItemTouchListenerImplementor
+Android.Support.V7.Widget.RecyclerView/IOnItemTouchListenerImplementor, Xamarin.Android.Support.v7.RecyclerView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.RecyclerView_OnItemTouchListenerImplementor
+Android.Support.V7.Widget.RecyclerView.IOnItemTouchListenerImplementor;mono.android.support.v7.widget.RecyclerView_OnItemTouchListenerImplementor
+android.support.v7.widget.RecyclerView_IOnItemTouchListenerImplementor;mono.android.support.v7.widget.RecyclerView_OnItemTouchListenerImplementor
+Android.Support.V7.Widget.RecyclerView/IRecyclerListenerImplementor, Xamarin.Android.Support.v7.RecyclerView;mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor
+Android.Support.V7.Widget.RecyclerView/IRecyclerListenerImplementor, Xamarin.Android.Support.v7.RecyclerView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor
+Android.Support.V7.Widget.RecyclerView.IRecyclerListenerImplementor;mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor
+android.support.v7.widget.RecyclerView_IRecyclerListenerImplementor;mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor
